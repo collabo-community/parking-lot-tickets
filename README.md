@@ -1,10 +1,6 @@
-# @collabo-community/product-issue-reports
-Issue reports in this repository are from users and/or contributors of Collabo Community products/projects, mostly through Collabocate GitHubSync integrated in our apps. Users and contributors can also choose to submit issues directly through the issues tab of this repository.
+# @collabo-community/parking-lot-tickets
+For project board clean up, we move issue tickets we are no longer sure we will work on in the long or short run to this parking lot repository.
 
 #
 
-Collabo Community resource documentation is live at: [resources.collabocommunity.com](https://resources.collabocommunity.com)
-
-#
-
-Contribute to community projects: See [Community and Documenation](https://resources.collabocommunity.com/p/vmg4PL1ozeI435/Community-and-Documentation)
+Learn how you can contribute to Collabo Community: [resources.collabo.community](https://resources.collabo.community)
